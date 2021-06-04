@@ -3,5 +3,6 @@
 
 **访问地址**
 `https://cdn.jsdelivr.net/gh/imtyb/cdn@_/xxxxxxxxx.jpg`
-刷新图片
+
+**刷新图片**
 `https://purge.jsdelivr.net/gh/imtyb/cdn@_/xxxxxxxxx.jpg`
