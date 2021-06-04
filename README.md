@@ -3,5 +3,5 @@
 
 **访问地址**
 `https://cdn.jsdelivr.net/gh/imtyb/cdn@_/xxxxxxxxx.jpg`
-
-> 使用不同的分支来分类图片用途，通用图片放在main下面
+刷新图片
+`https://purge.jsdelivr.net/gh/imtyb/cdn@_/xxxxxxxxx.jpg`
